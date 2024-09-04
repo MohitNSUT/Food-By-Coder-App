@@ -1,4 +1,4 @@
-![Screenshot (3061)](https://github.com/user-attachments/assets/69b432e0-caf0-4098-ae2e-6667e14ee240)<h1 align="![Screenshot (3055)](https://github.com/user-attachments/assets/9df6e1e6-7759-424d-8932-3165dd2e173e)
+<h1 align="![Screenshot (3055)](https://github.com/user-attachments/assets/9df6e1e6-7759-424d-8932-3165dd2e173e)
 center">Food By Coder App</h1>
 ![Screenshot (3055)](https://github.com/user-attachments/assets/eeffa9e0-1f44-41ed-88a0-d0a11c55e166)
 ![Screenshot (3056)](https://github.com/user-attachments/assets/b3b6c181-654f-4cfe-ae0a-41507fc7b75e)
