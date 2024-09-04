@@ -1,5 +1,3 @@
-<h1 align="![Screenshot (3055)](https://github.com/user-attachments/assets/9df6e1e6-7759-424d-8932-3165dd2e173e)
-center">Food By Coder App</h1>
 ![Screenshot (3055)](https://github.com/user-attachments/assets/eeffa9e0-1f44-41ed-88a0-d0a11c55e166)
 ![Screenshot (3056)](https://github.com/user-attachments/assets/b3b6c181-654f-4cfe-ae0a-41507fc7b75e)
 ![Screenshot (3057)](https://github.com/user-attachments/assets/052dd570-bf33-4536-9c1a-dd7c328672ff)
@@ -8,6 +6,8 @@ center">Food By Coder App</h1>
 ![Screenshot (3060)](https://github.com/user-attachments/assets/b7269f9b-e55c-400c-8727-3e03cfe8c349)
 ![Screenshot (3061)](https://github.com/user-attachments/assets/638706d7-a0b5-480f-8249-582daeaa9d85)
 ![Screenshot (3062)](https://github.com/user-attachments/assets/fc104bf6-939b-4f03-bc5b-331e996ad61c)
+
+## Food By Coder App
 
 
 Food by Coder is a full-featured food delivery application built using the MERN stack (MongoDB, Express.js, React, and Node.js). The app allows users to browse food items, add them to the cart, place orders, and manage their account. It includes an admin panel for managing products, orders, and users. The application supports authentication and secure transactions through cash on delivery.
