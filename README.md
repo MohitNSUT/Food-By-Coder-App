@@ -1,4 +1,14 @@
-<h1 align="center">Food By Coder App</h1>
+![Screenshot (3061)](https://github.com/user-attachments/assets/69b432e0-caf0-4098-ae2e-6667e14ee240)<h1 align="![Screenshot (3055)](https://github.com/user-attachments/assets/9df6e1e6-7759-424d-8932-3165dd2e173e)
+center">Food By Coder App</h1>
+![Screenshot (3055)](https://github.com/user-attachments/assets/eeffa9e0-1f44-41ed-88a0-d0a11c55e166)
+![Screenshot (3056)](https://github.com/user-attachments/assets/b3b6c181-654f-4cfe-ae0a-41507fc7b75e)
+![Screenshot (3057)](https://github.com/user-attachments/assets/052dd570-bf33-4536-9c1a-dd7c328672ff)
+![Screenshot (3058)](https://github.com/user-attachments/assets/d683045c-6fec-4ed4-9cc6-63b63c934eb6)
+![Screenshot (3059)](https://github.com/user-attachments/assets/5024a69a-38e0-49f3-aa97-e3204e551fab)
+![Screenshot (3060)](https://github.com/user-attachments/assets/b7269f9b-e55c-400c-8727-3e03cfe8c349)
+![Screenshot (3061)](https://github.com/user-attachments/assets/638706d7-a0b5-480f-8249-582daeaa9d85)
+![Screenshot (3062)](https://github.com/user-attachments/assets/fc104bf6-939b-4f03-bc5b-331e996ad61c)
+
 
 Food by Coder is a full-featured food delivery application built using the MERN stack (MongoDB, Express.js, React, and Node.js). The app allows users to browse food items, add them to the cart, place orders, and manage their account. It includes an admin panel for managing products, orders, and users. The application supports authentication and secure transactions through cash on delivery.
 
@@ -80,15 +90,3 @@ Food by Coder is a full-featured food delivery application built using the MERN 
 - **Order History**: View your previous orders and track current orders.
 
 
-![Screenshot (3055)](https://github.com/user-attachments/assets/4410c0f9-dd1c-4dbb-a83f-cedf6d61bdbf)
-
-
-  ![Screenshot (3056)](https://github.com/user-attachments/assets/65e007c9-e941-450e-9c8e-8f9866ff3016)
-
-  
-![Screenshot (3057)](https://github.com/user-attachments/assets/78da8a8b-f25e-4ec8-95b9-f69f9d16cb1f)
-![Screenshot (3058)](https://github.com/user-attachments/assets/64c11d04-a210-41de-88f5-f72142cd0ca4)
-![Screenshot (3059)](https://github.com/user-attachments/assets/cdd6f425-f975-4514-9e7d-17b665130fc9)
-![Screenshot (3060)](https://github.com/user-attachments/assets/6cd8cb8f-9695-4857-91d4-9bcfd6402e2c)
-![Screenshot (3061)](https://github.com/user-attachments/assets/eec08929-f325-4091-a342-4119a74c493b)
-![Screenshot (3062)](https://github.com/user-attachments/assets/12357187-74be-48cf-aa80-ebb4b4a7a47b)
