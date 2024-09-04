@@ -37,13 +37,13 @@ Food by Coder is a full-featured food delivery application built using the MERN 
 
 2. **Install Backend Dependencies**:
    ```bash
-   cd server
+   cd backend
    npm install
    ```
 
 3. **Install Frontend Dependencies**:
    ```bash
-   cd ../client
+   cd ../frontend
    npm install
    ```
 
@@ -60,13 +60,13 @@ Food by Coder is a full-featured food delivery application built using the MERN 
 
    - To start the backend server:
      ```bash
-     cd server
-     npm start
+     cd backend
+     npm run server
      ```
    - To start the frontend client:
      ```bash
-     cd ../client
-     npm start
+     cd ../frontend
+     npm run dev
      ```
 
 6. **Access the Application**:
