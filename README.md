@@ -29,14 +29,7 @@ Food by Coder is a full-featured food delivery application built using the MERN 
 - **Frontend**: React, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Libraries and Tools**:
-  - Redux for state management
-  - Axios for API calls
-  - JSON Web Tokens (JWT) for authentication
-  - Material-UI for UI components
-  - Bcrypt for password hashing
-- **Deployment**: Deployed on platforms such as Heroku/Vercel (specify if any)
-
+  
 ### Installation
 
 1. **Clone the Repository**:
