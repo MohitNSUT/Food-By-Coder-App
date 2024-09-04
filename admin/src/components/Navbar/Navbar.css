@@ -1,0 +1,27 @@
+.admin-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+    background-color: rgb(59, 57, 57);
+    z-index: 100;
+}
+.admin-nav .logo{
+    width: max(5%,80px);
+    border-radius: 50%;
+    box-shadow: 0px 0px 5px 5px white;
+}
+.admin-nav h3{
+    color: white;
+    background-color: black;
+    padding:10px;
+    border-radius: 30px;
+    box-shadow:0px 0px 10px white;
+}
+
+.admin-nav .profile{
+    width: 40px;
+}
+.admin-nav{
+    background-color: rgb(70, 67, 67);
+}
